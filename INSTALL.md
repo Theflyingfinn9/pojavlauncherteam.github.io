@@ -26,7 +26,7 @@ If you want the latest and greatest to test before the official release, you can
 ![](./images/Actions/android/Android-Actions-3.png)
 
 4. Under "Artifacts", choose the build type you wish to download.
-    - `app-debug` will be the one for most people.
+    - `app-debug` will be the one for most people. does not work
 
 ![](./images/Actions/android/Android-Actions-4.png)
 
